@@ -1,0 +1,13 @@
+.banner{
+   background-image: url('https://media.istockphoto.com/photos/banner-of-shopping-cart-with-school-supply-stationary-on-colorful-picture-id1272058189?k=6&m=1272058189&s=170667a&w=0&h=IrDtsAqnCduRSBYwEp8kmJix30iZ9RdhyYq5CH7WvN8=');
+  background-size: cover;
+   height: 440px;
+  
+}
+.card{
+   border: 2px ridge black;
+}
+img:hover{
+
+
+}

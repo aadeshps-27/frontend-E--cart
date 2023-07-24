@@ -1,1 +1,6 @@
 /* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css2?family=Antic+Slab&family=Bangers&family=Bayon&family=Codystar:wght@300&family=Dancing+Script&family=Montserrat:wght@100&family=Moon+Dance&family=Mulish:wght@200&family=Orbitron&family=Rubik+Puddles&family=Sail&family=Spectral+SC:wght@200&family=Srisakdi&family=Trade+Winds&display=swap');
+*{
+    font-family: 'Mulish', sans-serif;
+ }
+ 
