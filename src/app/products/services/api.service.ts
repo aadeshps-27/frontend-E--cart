@@ -19,7 +19,7 @@ export class ApiService {
     this.cartCount()
   }
 
-  BASE_URL = 'http://localhost:5000'
+  BASE_URL = 'https://backend-e-carts.onrender.com'
 
   //get all products
 
